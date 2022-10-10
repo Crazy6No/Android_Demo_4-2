@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EnrollScoreActivity</string>
+    <string name="chooseSchool">选择学校</string>
+    <string name="enrollScoreTitle">历年录取线查询</string>
+    <string name="showMajor">显示专业</string>
+    <string name="major">专业名称</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="startYear">起始年份</string>
+    <string name="enterLine">投档线</string>
+    <string name="enterLineRank">投档排名</string>
+    <string name="max_score">最高分</string>
+    <string name="average_score">平均分</string>
+    <string name="averageTrend">历年分数与省控线差值趋势图</string>
+    <string name="batch">批次</string>
+    <string name="category">类别</string>
+    <string name="year">年份</string>
+    <string name="sourceArea">生源地</string>
+    <string name="schoolArea">学校省份</string>
+    <string name="search">查询</string>
+
+
+
+
+    <string name="controlLine">省控线</string>
+</resources>
